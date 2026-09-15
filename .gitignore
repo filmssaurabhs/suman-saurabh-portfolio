@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+07_CV/
+08_LINKS/
+09_REFERENCE/
+10_WORKING PICS/
+PROJECT_HANDOFF.md
+*.log
+
+01_SHOWREEL/SS_videoeditor showreel.mp4
+04_DOCUMENTARY/Acts_of_love_.mp4
