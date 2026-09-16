@@ -381,7 +381,7 @@ function initNotebookTimeline() {
   const timeline = document.getElementById('notebookTimeline');
   if (!timeline) return;
 
-  const milestones = timeline.querySelectorAll('.notebook-milestone');
+  const milestones = timeline.querySelectorAll('.journey-step, .trajectory-item, .notebook-milestone');
   if (!milestones.length) return;
 
   if ('IntersectionObserver' in window) {
